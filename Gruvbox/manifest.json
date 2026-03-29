@@ -1,9 +1,9 @@
 {
     "name": "Gruvbox",
     "description": "Gruvbox themed mod",
-    "developer": "XSilentsstorm"
+    "developer": 
     {
-        "name": "XSilentstorm"
+        "name": "XSilenstorm"
     },
     "icons":
     {
@@ -133,15 +133,15 @@
                 {
                     "gx_accent":
                     {
-                        "h": 85,
-                        "s": 100,
-                        "l": 72
-                    },
-                    "gx_secondary_base":
-                    {
                         "h": 235,
                         "s": 219,
                         "l": 178
+                    },
+                    "gx_secondary_base":
+                    {
+                        "h": 40,
+                        "s": 40,
+                        "l": 40
                     }
                 },
                 "light":
