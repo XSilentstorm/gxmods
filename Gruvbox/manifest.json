@@ -1,9 +1,9 @@
 {
-    "name": "MOD NAME GOES HERE",
-    "description": "MOD DESCRIPTION GOES HERE",
-    "developer":
+    "name": "Gruvbox",
+    "description": "Gruvbox themed mod",
+    "developer": "XSilentsstorm"
     {
-        "name": "DEVELOPER NAME GOES HERE"
+        "name": "XSilentstorm"
     },
     "icons":
     {
